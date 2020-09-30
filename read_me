@@ -1,0 +1,3 @@
+Creating a Python program to analyse the readability of a text, story, e.t.c by using the Coleman-Liau index [U.S Grade Level]
+
+This python program checks the text of any file and displays the difficulty of it.
